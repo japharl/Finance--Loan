@@ -3,6 +3,8 @@ Finance-Loan version 0.05
 
 Added daily simple interest.  Removed getPaymentAfterMonth(N) because it (some how) broke.
 
+Note, I strongly recommend using other modules other than this one.
+
 INSTALLATION
 
 To install this module type the following:
